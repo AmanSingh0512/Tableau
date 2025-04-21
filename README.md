@@ -116,7 +116,7 @@ The fourth dashboard analyzes international and data plans. The analysis showed:
 
 Customers not on unlimited plans but using less than 5 GB per month are paying $4.34 extra in data charges This added cost may be contributing to higher churn.
 
-STORY
+SUMMARY
 
 Finally, we combined all four dashboards into a Tableau Story to summarize our analysis and provide actionable insights for reducing churn at Databel.
 
